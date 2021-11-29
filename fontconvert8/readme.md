@@ -1,6 +1,6 @@
 Konverze TTF fontu na font pro Adafruit GFX library - včetně češtiny v ISO 8859-2 (Latin 2). Místo standardní konverze jen sedmibitových znaků konvertuje znaky osmibitové..
 
-Je to klon z následující stránky, kde najdete i detailní popis a postup použití v Arduinu:
+Kód vychází z práce zveřejněné zde:
 https://www.sigmdel.ca/michel/program/misc/gfxfont_8bit_en.html
 
 Sestavení na Ubuntu 18:

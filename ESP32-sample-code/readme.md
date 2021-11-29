@@ -1,6 +1,7 @@
-Ukázka použití českých znaků ve fontech zkonvertovanjých pomocí upraveného fontconvert8 s GxEPD2
+Ukázka použití českých znaků ve fontech zkonvertovanjých pomocí upraveného fontconvert8 s GxEPD2.
+Nástroj fontconvert8 najdete v [zde](../fontconvert8)
 
-Je to klon z následující stránky, kde najdete i detailní popis a postup použití v Arduinu:
+Původní text a kód, ze kterého jsem vycházel:
 https://www.sigmdel.ca/michel/program/misc/gfxfont_8bit_en.html
 
 Do zdrojáků aplikace si vložte obsah tohoto adresáře.
