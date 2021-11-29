@@ -1,4 +1,4 @@
-Konverze TTF fontu na font pro Adafruit GFX library - včetně češtiny v ISO 8859-2 (Latin 2). Místo standardní konverze jen sedmibitových znaků konvertuje znaky osmibitové..
+Konverze TTF fontu na font pro Adafruit GFX library - včetně češtiny v ISO 8859-2 (Latin 2). Místo standardní konverze jen sedmibitových znaků konvertuje znaky osmibitové.
 
 Kód vychází z práce zveřejněné zde:
 https://www.sigmdel.ca/michel/program/misc/gfxfont_8bit_en.html
@@ -24,7 +24,7 @@ make -f Makefile8
 
 4) A použít:
 ```console
-./fontconvert8 myFonts/FreeSans.ttf 9 > myFonts/FreeSans9pt.h
+./fontconvert8 myFonts/FreeSans.ttf 9 > myFonts/FreeSans9pt8b.h
 ```
 
 DPI displeje se nastaví na řádce 77 v fontconvert8.c
