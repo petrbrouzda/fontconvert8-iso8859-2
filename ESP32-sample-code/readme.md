@@ -1,4 +1,4 @@
-Ukázka použití českých znaků ve fontech zkonvertovanjých pomocí upraveného fontconvert8 s GxEPD2.
+Ukázka použití českých znaků ve fontech zkonvertovaných pomocí upraveného fontconvert8 s GxEPD2.
 Nástroj fontconvert8 najdete v [zde](../fontconvert8)
 
 Původní text a kód, ze kterého jsem vycházel:
