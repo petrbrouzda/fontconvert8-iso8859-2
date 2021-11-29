@@ -10,7 +10,6 @@ Do INO souboru přidejte
 ```cpp
 #include "FreeSans15pt8b.h"
 #include "gfxlatin2.h"
-#include "decodeutf8.h"
 ```
 
 Když chcete vytisknout UTF-8 text, nakopírujte ho do textového pole a zavolejte na něj funkci utf8tocp(). Obsah pole se in-place překóduje na ISO-8859-2 s posunutými znaky >0x80 o -32 pozic. Tedy odpovídá fontu vygenerovanému z fontconvert8.
