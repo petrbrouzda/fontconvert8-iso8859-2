@@ -1,5 +1,5 @@
 
-Zde je ukázka, jak zobrazovat české znaky (UTF-8) na displejích pomocí GxEPD2 (a všude jinde, kde se používají Adafruid GFX fonty).
+Zde je ukázka, jak zobrazovat české znaky (UTF-8) na displejích pomocí GxEPD2 (a všude jinde, kde se používají Adafruit GFX fonty).
 
 ![Výsledek na ePaper displeji](img/epd.jpg "Výsledek na ePaper displeji")
 
