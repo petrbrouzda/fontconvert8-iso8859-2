@@ -67,7 +67,7 @@ uint16_t recode(uint8_t b) {
           case 0x010C: return  0xc8  ; break;
         case 0x0118: return  0xca  ; break;
         case 0x011A: return  0xcc  ; break;
-        case 0x010E: return  0xdf  ; break;
+        case 0x010E: return  0xcf  ; break;
 
         // d0
           case 0x0110: return  0xd0  ; break;
